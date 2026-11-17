@@ -20,4 +20,4 @@ Example run:
 CONFIG="config/settings.json" PORT=8086 HOST="127.0.0.1" /usr/lib/jvm/java-21-openjdk-amd64/bin/java -jar dandelionserver_files.jar
 ```
 
-Reserve proxy domain must be configured like for 📦 [Dandelion Server](https://github.com/MarvinRuRu/dandelionchat).
+Reserve proxy domain must be configured like for 📦 [Dandelion Server](https://github.com/MarvinRuRu/dandelionchat) (as described in section 3 of the settings).
