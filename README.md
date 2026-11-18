@@ -73,4 +73,4 @@ docker-compose up -d
 ```
 
 
-Reserve proxy domain must be configured as for 📦 [Dandelion Server](https://github.com/MarvinRuRu/dandelionchat) (as described in section 3 of the settings).
+Reserve proxy domain must be configured as for 📦 [Dandelion Server](https://github.com/MarvinRuRu/dandelionchat) (as described in section 3 of the settings) for working as dandelionchat file server(files attached to messages support).
