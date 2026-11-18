@@ -33,7 +33,7 @@ CONFIG="config/settings.json" PORT=8086 HOST="127.0.0.1" /usr/lib/jvm/java-21-op
 
 **docker-compose.yml** to start the server on port 8086, on a fixed IP address of 172.18.0.101 in the virtual network.
 
-* it is assumed that the server configuration file is located at `config/settings.json` relative to `docker-compose.yml` 
+* it is assumed that the server configuration file is located at `config_files/settings.json` relative to `docker-compose.yml` 
 * it is assumed that directory `files` exists relative to `docker-compose.yml` and `files_base_path` in `settings.json` is set to `/app/config`
 
 ```yaml
