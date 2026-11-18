@@ -7,7 +7,7 @@
 ```json
 {
     "server_jwt_secret": "bfcjJe+xSa1IPsszJlvFRzbp78-I6HeqP54SaY713b4=",
-    "files_base_path": "/opt/no_memory_chat_files/files",
+    "files_base_path": "/opt/dandelionchat_files/files",
     "max_file_size_mb": 50
 }
 ````
